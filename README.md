@@ -10,10 +10,13 @@ O que faz?
 
 
  Linguagem usada
+
  -pyhton
 
  Ferramentas usadas
+ 
  -linha de comandos do windows
+ 
  -python
 
  OBS:foi feito como exercício para estudo e prática.
