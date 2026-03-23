@@ -2,6 +2,7 @@
 Este é um projecto bastante simples para estudar análise de logs de Segurança.
 
 O que faz?
+
 -Lê o arquivo auth.log
 
 -Revê todos log
