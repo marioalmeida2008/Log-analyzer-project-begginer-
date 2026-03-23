@@ -1,7 +1,10 @@
 # Log-analyzer-project-begginer-
 Este é um projecto bastante simples para estudar análise de logs de Segurança.
 
-O que faz?
+Objectivo
+-Identificar as tentativas de log invalidas e seus IP's
+
+Como faz?
 
 -Lê o arquivo auth.log
 
